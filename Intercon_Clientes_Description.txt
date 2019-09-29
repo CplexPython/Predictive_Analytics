@@ -1,0 +1,29 @@
+1. Title: Intercon. Customers Credit Card Bank. Table Clientes. 
+
+2. Sources:
+
+Dennys Rodriguez & Carlos Quintanilla, "Banco Intercon y la Segmentacion Cientifica", Case 12017, INCAE Business School. 
+	
+3. Number of Instances: 15786
+
+4. Number of Attributes: 4
+
+5. Attribute Information 
+
+	1. idcliente, id
+	2. edad
+	3. sexo, categorical, 1=masculino, 2=femenino, 3=sin datos
+	4. estado_civil, categorical, 1=soltero, 2=casado, 3=divorciado, 4=viven juntos/no estan casados, 5=viudo(a), 6=otros, 7=sin datos
+
+	
+
+6. Summary Statistics
+
+   idcliente           edad        sexo     estado_civil
+ Min.   :500001   Min.   :  0.00   1:9116   1:8943      
+ 1st Qu.:503947   1st Qu.: 31.00   2:6652   2:6253      
+ Median :507894   Median : 39.00   3:  18   3: 403      
+ Mean   :507894   Mean   : 39.77            4:  85      
+ 3rd Qu.:511840   3rd Qu.: 47.00            5:  81      
+ Max.   :515786   Max.   :106.00            6:   3      
+                                            7:  18   
